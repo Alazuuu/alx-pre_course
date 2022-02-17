@@ -1,2 +1,2 @@
-This is the first project or Alx git course"# alx-pre_course" 
+This is the first project of Alx git course"# alx-pre_course" 
 
